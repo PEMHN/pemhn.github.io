@@ -1,2 +1,3 @@
-# pemhn.github.io
-Profesionales Electromecanicos S. de R.L.
+layout: page
+title: "pem_pagina"
+permalink: /
