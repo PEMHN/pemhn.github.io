@@ -1,3 +1,3 @@
 layout: page
-title: "pem_pagina"
+title: "index"
 permalink: /
